@@ -2,5 +2,5 @@ My Resolutions
 - I want to learn and explore the science of fullstack web development
 - I want to be able to and master the science of fullstack web development
 - I want to become an expert in the field of fullstack web development
-- I want to create a website
 - I want to collaborate with a lot of people
+- I want to create a game
